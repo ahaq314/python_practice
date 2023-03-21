@@ -1,0 +1,10 @@
+emulating do while loop in python.
+ek vaar loop chlega hi chlega uske baad condn checkn hoga 
+
+body
+while(condn):
+body
+
+
+NOTE: function defination mein 'return' ke baad kch bhi execute nhi hota
+        return must be used inside function
